@@ -1,0 +1,9 @@
+# stažená a vygenerovaná data (root-anchored, ať se nezahodí nextstrain/data)
+/data/
+/output/
+
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
